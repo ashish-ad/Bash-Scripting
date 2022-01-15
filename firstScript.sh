@@ -1,3 +1,6 @@
-#! /usr/bin/zsh
+#! /usr/bin/zsh -x
 
-echo -e "one\ntwo\nthree\nfour"
+echo 'one'
+echo 'two'
+echo 'three'
+echo 'four'
