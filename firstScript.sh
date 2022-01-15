@@ -1,6 +1,3 @@
-#! /usr/bin/zsh -x
+#! /usr/bin/zsh 
 
-echo 'one'
-echo 'two'
-echo 'three'
-echo 'four'
+echo "Welcome to Ashish's Kitchen"
