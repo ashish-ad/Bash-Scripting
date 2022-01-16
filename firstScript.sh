@@ -1,3 +1,3 @@
 #! /usr/bin/zsh 
 
-echo "My favourite movie is \" Limitless \""
+echo "My favourite movie is \" Limitless \"" > ./file.txt
