@@ -1,8 +1,11 @@
 #! /usr/bin/zsh 
 
+present=$(pwd)
 
+cd $HOME
 
-VAR=$USER
+echo "I like Range Rover" > test.txt
 
-echo "$VAR"
+cat test.txt
 
+cd $present
