@@ -1,7 +1,6 @@
 #! /usr/bin/zsh 
 
 a='this is a car'
-b='this is a mercedese'
-
-echo $b
-echo $a
+b='and it can go at speed of 250km/hr'
+c="${a} ${b}"
+echo "${c}"
