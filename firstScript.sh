@@ -1,3 +1,7 @@
 #! /usr/bin/zsh 
-VAR="Hello World"
-echo $VAR
+
+a='this is a car'
+b='this is a mercedese'
+
+echo $b
+echo $a
